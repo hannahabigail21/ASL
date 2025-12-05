@@ -4,7 +4,7 @@ A full-stack machine learning application for real-time American Sign Language r
 
 ---
 
-## 📋 Quick Start (5 Minutes to Running)
+##  Quick Start (5 Minutes to Running)
 
 ### Step 1: Setup Environment
 ```bash
@@ -36,7 +36,7 @@ python real_time_interpreter.py
 
 ---
 
-## 🎯 How to Use
+##  How to Use
 
 ### Data Collection (`data_collector.py`)
 ```
@@ -264,14 +264,14 @@ pip install mediapipe
 ##  Educational Value for Portfolio
 
 This project demonstrates:
-- ✅ Deep Learning (LSTM architecture)
-- ✅ Real-time Computer Vision (MediaPipe)
-- ✅ Data Collection & Preprocessing
-- ✅ Model Training & Evaluation
-- ✅ TensorFlow/Keras expertise
-- ✅ OpenCV for video processing
-- ✅ End-to-end ML pipeline
-- ✅ Performance optimization
+-  Deep Learning (LSTM architecture)
+-  Real-time Computer Vision (MediaPipe)
+-  Data Collection & Preprocessing
+-  Model Training & Evaluation
+-  TensorFlow/Keras expertise
+-  OpenCV for video processing
+-  End-to-end ML pipeline
+-  Performance optimization
 
 ---
 
@@ -289,6 +289,4 @@ Suggestions for improvement? Ideas to extend?
 
 Free to use for educational purposes.
 
----
 
-**Made with ❤️ for accessibility and learning** 🤟
