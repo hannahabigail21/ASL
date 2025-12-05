@@ -1,4 +1,4 @@
-# 🤟 Real-Time ASL Interpreter - Complete Project
+# Real-Time ASL Interpreter - Complete Project
 
 A full-stack machine learning application for real-time American Sign Language recognition using MediaPipe hand detection and LSTM deep learning.
 
@@ -49,7 +49,7 @@ python real_time_interpreter.py
 7. Press Q to quit
 ```
 
-**💡 Tips for Good Data:**
+** Tips for Good Data:**
 - Good lighting on your hands
 - Keep hands clearly visible
 - Perform gesture consistently
@@ -77,7 +77,7 @@ python real_time_interpreter.py
 6. Q to quit
 ```
 
-**📊 Display Shows:**
+** Display Shows:**
 - Hand detection status (green = detected)
 - Recording progress (when recording)
 - Current prediction and confidence
@@ -85,7 +85,7 @@ python real_time_interpreter.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 asl_interpreter/
@@ -108,7 +108,7 @@ asl_interpreter/
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 Edit `config.py` to customize:
 
@@ -133,7 +133,7 @@ SAMPLES_PER_GESTURE = 30  # Increase for better accuracy
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 ### Architecture
 
@@ -183,7 +183,7 @@ Display Result
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### "ModuleNotFoundError: No module named 'mediapipe'"
 ```bash
@@ -212,7 +212,7 @@ pip install mediapipe
 
 ---
 
-## 💡 Next Steps & Extensions
+##  Next Steps & Extensions
 
 ### Beginner Improvements
 1. **Add more gestures** - Extend to full sentences
@@ -232,7 +232,7 @@ pip install mediapipe
 
 ---
 
-## 📚 Learning Resources
+## Learning Resources
 
 - **MediaPipe Documentation**: https://mediapipe.dev/
 - **LSTM Tutorial**: https://colah.github.io/posts/2015-08-Understanding-LSTMs/
@@ -241,7 +241,7 @@ pip install mediapipe
 
 ---
 
-## ⚠️ Important Notes
+##  Important Notes
 
 1. **Privacy**: This app processes video locally—nothing is uploaded
 2. **Accuracy**: Varies by hand size, lighting, and background
@@ -251,7 +251,7 @@ pip install mediapipe
 
 ---
 
-## 📝 Project Stats
+##  Project Stats
 
 - **Total Gestures**: 31 (26 letters + 5 common words)
 - **Training Data**: ~930 sequences (30 per gesture)
@@ -261,7 +261,7 @@ pip install mediapipe
 
 ---
 
-## 🎓 Educational Value for Portfolio
+##  Educational Value for Portfolio
 
 This project demonstrates:
 - ✅ Deep Learning (LSTM architecture)
@@ -275,7 +275,7 @@ This project demonstrates:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Suggestions for improvement? Ideas to extend?
 - Document your approach
@@ -285,7 +285,7 @@ Suggestions for improvement? Ideas to extend?
 
 ---
 
-## 📄 License
+##  License
 
 Free to use for educational purposes.
 
