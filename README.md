@@ -171,7 +171,7 @@ Display Result
 
 ---
 
-## 📊 Expected Performance
+##  Expected Performance
 
 | Metric | Expected | Notes |
 |--------|----------|-------|
